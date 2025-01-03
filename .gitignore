@@ -6,7 +6,7 @@ manipulation/contact_graspnet/examples
 manipulation/contact_graspnet/test_data
 manipulation/contact_graspnet/checkpoints
 manipulation/dataset
-
+Datasets/
 outputs
 wandb
 
